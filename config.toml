@@ -5,7 +5,7 @@ theme = "ananke"
 
 DefaultContentLanguage = "ja"
 SectionPagesMenu = "main"
-Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-165312579-1"
 
 [taxonomies]
@@ -15,7 +15,7 @@ tag = "tags"
 [params]
   favicon = ""
   site_logo = ""
-  description = "日々の学びを記録するブログです。"
+  description = "日々学んだことを記録しているブログです。"
   facebook = ""
   twitter = "https://twitter.com/manabisystem"
   instagram = ""
@@ -30,4 +30,5 @@ tag = "tags"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-gray"
   featured_image = "images/owl.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 5
+  custom_css = ["/css/custom.css"]
