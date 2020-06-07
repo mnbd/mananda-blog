@@ -1,8 +1,8 @@
 ---
 title: "Hello World"
-date: 2020-05-31T22:56:58+09:00
+date: 2020-05-05T22:56:58+09:00
 summary: "まなんだブログ開設のお知らせです。"
-tags: ["ブログ運営報告"]
+categories: ["ブログ運営報告"]
 draft: false
 ---
 
