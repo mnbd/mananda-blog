@@ -1,0 +1,32 @@
+[more]
+other = "さらに"
+
+[allTitle]
+other = "すべての{{.Title }}"
+
+[recentTitle]
+other = "最近の{{.Title }}"
+
+[readMore]
+other = "続きを読む"
+
+[whatsInThis]
+other = "What's in this {{ .Type }}"
+
+[related]
+other = "関連"
+
+[yourName]
+other = "あなたの名前"
+
+[emailAddress]
+other = "メールアドレス"
+
+[message]
+other = "メッセージ"
+
+[emailRequiredNote]
+other = "An email address is required."
+
+[send]
+other = "送る"
