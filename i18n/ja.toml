@@ -1,5 +1,5 @@
 [more]
-other = "さらに"
+other = "続きを表示"
 
 [allTitle]
 other = "すべての{{.Title }}"
