@@ -7,6 +7,8 @@ tags: ["Wordpress", "Gatsby", "Hugo"]
 draft: false
 ---
 
+{{< img src="2020-06-20.jpg" caption="" alt="失敗の写真" >}}
+
 こんにちは！まなびシステム（ {{< exlink href="https://twitter.com/manabisystem/" text="@manabisystem" >}} ）です。
 
 今日は静的サイトジェネレーター「Gatsby」でブログ構築できずに断念した話を非エンジニアのブロガーさん、またはこれからブロガーになりたい方の参考になればと思い書きたいと思います。
