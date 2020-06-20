@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>マインド on まなんだブログ</title>
+    <link>https://blog.manabisystem.com/categories/%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89/</link>
+    <description>Recent content in マインド on まなんだブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>頭のもやもやをデトックスする方法</title>
+      <link>https://blog.manabisystem.com/archives/morning-page/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.manabisystem.com/archives/morning-page/</guid>
+      <description>頭の中で何度も同じ考えぐるぐるすることはありませんか？ そういう時はアウトプットするのもの一つの手です。ここでは「モーニングページ」とそれをまなびシステム的にアレンジした方法をご紹介いたします。</description>
+    </item>
+    
+  </channel>
+</rss>

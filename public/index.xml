@@ -1,14 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>まなんだブログ</title>
+    <title>まなんだブログ on まなんだブログ</title>
     <link>https://blog.manabisystem.com/</link>
-    <description>Recent content on まなんだブログ</description>
+    <description>Recent content in まなんだブログ on まなんだブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://blog.manabisystem.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Archives</title>
+      <link>https://blog.manabisystem.com/archives/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.manabisystem.com/archives/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
