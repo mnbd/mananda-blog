@@ -32,3 +32,20 @@ tag = "tags"
   featured_image = "images/owl.jpg"
   recent_posts_number = 5
   custom_css = ["/css/custom.css"]
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "まなんだブログについて"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        identifier = "archives"
+        name = "記事一覧"
+        url = "/archives"
+        weight = 2
+    [[menu.main]]
+        identifier = "contact"
+        name = "お問い合わせ"
+        url = "/contact"
+        weight = 3
