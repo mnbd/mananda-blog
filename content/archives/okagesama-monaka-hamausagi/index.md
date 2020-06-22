@@ -4,7 +4,7 @@ date: 2020-06-22T18:20:30+09:00
 summary: "横浜の和菓子店「濱うさぎ」さんの「御蔭様最中（挽き茶）」を食べてみたのでご紹介いたします。"
 categories: ["食べもの"]
 tags: [""]
-draft: true
+draft: false
 ---
 
 {{< img src="2020-05-14-screenshot-00004.png" alt="「濱うさぎ」のロゴ画像">}}
